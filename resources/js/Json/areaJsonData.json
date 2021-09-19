@@ -1,0 +1,141 @@
+{
+    "division":[
+        "Dhaka","Chattragram","Barishal","Sylhet","Rajshai"
+    ],
+    "area":{
+        "dhaka": [
+            {
+                "value":"dhaka",
+                "label":"Dhaka"
+
+
+            },
+            {
+                "value":"adhabar",
+                "label":"Adhabar"
+
+            },
+            {
+                "value":"shamoly",
+                "label":"Shamoly"
+
+            },
+            {
+                "value":"demra",
+                "label":"DEMRA"
+
+            },
+            {
+                "value":"mirpur",
+                "label":"MIRPUR"
+
+            },
+            {
+                "value":"khilkhet",
+                "label":"KHILKHET"
+
+            },
+            {
+                "value":"motijeel",
+                "label":"MOTIJHEEL"
+
+            },
+            {
+                "value":"pallabi",
+                "label":"PALLABI"
+
+            },
+            {
+                "value":"uttara",
+                "label":"UTTARA"
+
+            },
+            {
+                "value":"jatrabari",
+                "label":"JATRABARI"
+
+            },
+            {
+                "value":"kalabagan",
+                "label":"KALABAGAN"
+
+            },
+            {
+                "value":"keraniganj",
+                "label":"KERANIGANJ"
+
+            },
+            {
+                "value":"mohakhali",
+                "label":"Mohakhali"
+
+            },
+            {
+                "value":"paltan",
+                "label":"PALTAN"
+
+            },
+            {
+                "value":"shahbag",
+                "label":"SHAHBAG"
+
+            },
+            {
+                "value":"tejgaon",
+                "label":"TEJGAON"
+
+            },
+            {
+                "value":"badda",
+                "label":"BADDA"
+
+            }
+
+        ],
+        "chattragram": [
+            {
+                "value":"anowara",
+                "label":"ANOWARA"
+
+
+            },
+            {
+                "value":"chandgoan",
+                "label":"CHANDGAON"
+
+            },
+            {
+                "value":"fatikchari",
+                "label":"FATIKCHHARI"
+
+            },
+            {
+                "value":"karnaful",
+                "label":"KARNAFULI"
+
+            },
+            {
+                "value":"lohagara",
+                "label":"LOHAGARA"
+
+            },
+            {
+                "value":"panchilaish",
+                "label":"PANCHLAISH"
+
+            },
+            {
+                "value":"rangunia",
+                "label":"RANGUNIA"
+
+            },
+            {
+                "value":"satkania",
+                "label":"SATKANIA"
+
+            }
+
+        ]
+    }
+
+}

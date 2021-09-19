@@ -1,0 +1,196 @@
+{
+
+        "class": [
+            {
+                "value":"class1",
+                "label":"Class I"
+
+            },
+            {
+                "value":"class2",
+                "label":"Class II"
+
+            },
+            {
+                "value":"class3",
+                "label":"Class III"
+
+            },
+            {
+                "value":"class4",
+                "label":"Class IV"
+
+            },
+            {
+                "value":"class5",
+                "label":"Class V"
+
+            },
+            {
+                "value":"class6",
+                "label":"Class VI"
+
+            },
+            {
+                "value":"class7",
+                "label":"Class VII"
+
+            },
+            {
+                "value":"class8",
+                "label":"Class VIII"
+
+            },
+            {
+                "value":"class9",
+                "label":"Class IX"
+
+            },
+            {
+                "value":"hsc",
+                "label":"H.S.C"
+
+            },
+            {
+                "value":"ssc",
+                "label":"S.S.C"
+
+            },
+            {
+                "value":"honors",
+                "label":"Honors"
+
+            },
+            {
+                "value":"stan1",
+                "label":"Standard I"
+
+            },
+            {
+                "value":"stan2",
+                "label":"Standard II"
+
+            },
+            {
+                "value":"stan3",
+                "label":"Standard III"
+
+            },
+            {
+                "value":"stan4",
+                "label":"Standard IV"
+
+            },
+            {
+                "value":"stan5",
+                "label":"Standard V"
+
+            },
+            {
+                "value":"stan6",
+                "label":"Standard VI"
+
+            },
+            {
+                "value":"stan7",
+                "label":"Standard VII"
+
+            },
+            {
+                "value":"stan8",
+                "label":"Standard VIII"
+
+            },
+            {
+                "value":"stan9",
+                "label":"Standard IX"
+
+            },
+            {
+                "value":"all_classes",
+                "label":"All Classes"
+
+            },
+            {
+                "value":"exam",
+                "label":"Exam(IELTS,TOFEL)"
+
+            },
+            {
+                "value":"foreign",
+                "label":"Foreign Language"
+
+            },
+
+            {
+                "value":"application",
+                "label":"Application"
+
+            },
+            {
+                "value":"office",
+                "label":"MS Office"
+
+            },
+            {
+                "value":"database",
+                "label":"Database"
+
+            },
+            {
+                "value":"web",
+                "label":"Web Dev"
+
+            },
+            {
+                "value":"freelancing",
+                "label":"Freelancing"
+
+            },
+            {
+                "value":"essential_computer",
+                "label":"Essential Computer"
+
+            },
+            {
+                "value":"networking",
+                "label":"Networking"
+
+            },
+            {
+                "value":"programmign",
+                "label":"Programming"
+
+            },
+
+            {
+                "value":"art",
+                "label":"Art/Drawing"
+
+            },
+            {
+                "value":"music",
+                "label":"Music"
+
+            },
+            {
+                "value":"others",
+                "label":"Others"
+
+            }
+
+        ],
+       "medium": [
+           "Bangla Medium","English Medium","Arabic Medium","Language Learning"
+       ],
+       "days":[
+           "1 Day/week","2 Days/week","3 Days/week","4 Days/week","5 Days/week","6 Days/week","7 Days/week"
+       ],
+       "gender":[
+           "Male","Female","Any gender"
+       ],
+       "salarRange":[
+           "1000-2000 tk","2000-3000 tk","3000-4000 tk","4000-5000 tk","5000-6000 tk","6000-7000 tk","7000-8000 tk"
+       ]
+
+}

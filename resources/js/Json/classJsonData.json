@@ -1,0 +1,204 @@
+{
+    "PreferedClass":{
+        "class": [
+            {
+                "value":"class I",
+                "label":"Class I"
+
+            },
+            {
+                "value":"class II",
+                "label":"Class II"
+
+            },
+            {
+                "value":"class III",
+                "label":"Class III"
+
+            },
+            {
+                "value":"class IV",
+                "label":"Class IV"
+
+            },
+            {
+                "value":"class V",
+                "label":"Class V"
+
+            },
+            {
+                "value":"class VI",
+                "label":"Class VI"
+
+            },
+            {
+                "value":"class VII",
+                "label":"Class VII"
+
+            },
+            {
+                "value":"class VIII",
+                "label":"Class VIII"
+
+            },
+            {
+                "value":"class IX",
+                "label":"Class IX"
+
+            },
+            {
+                "value":"H.S.C",
+                "label":"H.S.C"
+
+            },
+            {
+                "value":"S.S.C",
+                "label":"S.S.C"
+
+            },
+            {
+                "value":"honors",
+                "label":"Honors"
+
+            }
+
+
+        ]
+    },
+    "PreferedEnglishMedium":{
+        "class": [
+            {
+                "value":"Standard I",
+                "label":"Standard I"
+
+            },
+            {
+                "value":"Standard II",
+                "label":"Standard II"
+
+            },
+            {
+                "value":"Standard III",
+                "label":"Standard III"
+
+            },
+            {
+                "value":"Standard IV",
+                "label":"Standard IV"
+
+            },
+            {
+                "value":"Standard V",
+                "label":"Standard V"
+
+            },
+            {
+                "value":"Standard VI",
+                "label":"Standard VI"
+
+            },
+            {
+                "value":"Standard VII",
+                "label":"Standard VII"
+
+            },
+            {
+                "value":"Standard VIII",
+                "label":"Standard VIII"
+
+            },
+            {
+                "value":"Standard IX",
+                "label":"Standard IX"
+
+            },
+            {
+                "value":"All Classes",
+                "label":"All Classes"
+
+            }
+
+
+
+        ]
+    },
+    "PreferedLanguage":{
+        "class": [
+            {
+                "value":"Exam(IELTS,TOFEL)",
+                "label":"Exam(IELTS,TOFEL)"
+
+            },
+            {
+                "value":"Foreign Language",
+                "label":"Foreign Language"
+
+            }
+
+        ]
+    },
+    "ComputerLearning":{
+        "computer": [
+            {
+                "value":"application",
+                "label":"Application"
+
+            },
+            {
+                "value":"MS Office",
+                "label":"MS Office"
+
+            },
+            {
+                "value":"database",
+                "label":"Database"
+
+            },
+            {
+                "value":"web",
+                "label":"Web Dev"
+
+            },
+            {
+                "value":"freelancing",
+                "label":"Freelancing"
+
+            },
+            {
+                "value":"Essential Computer",
+                "label":"Essential Computer"
+
+            },
+            {
+                "value":"networking",
+                "label":"Networking"
+
+            },
+            {
+                "value":"Programming",
+                "label":"Programming"
+
+            }
+        ]
+    },
+    "ExtraActivities":{
+        "class": [
+            {
+                "value":"Art/Drawing",
+                "label":"Art/Drawing"
+
+            },
+            {
+                "value":"music",
+                "label":"Music"
+
+            },
+            {
+                "value":"others",
+                "label":"Others"
+
+            }
+
+        ]
+    }
+}

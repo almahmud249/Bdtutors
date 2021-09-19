@@ -1,0 +1,65 @@
+{
+    "options": {
+        "TutoringStyle": [
+            {
+                "value":"group_tution",
+                "label":"Group Tution"
+
+            },
+            {
+                "value":"private_tution",
+                "label":"Private Tution"
+
+            }
+        ]
+        
+    },
+    "Learnplace":{
+        "LearningPLace": [
+            {
+                "value":"class_room",
+                "label":"Class Rooms"
+
+            },
+            {
+                "value":"coacing_center",
+                "label":" Coaching Center"
+
+            },
+            {
+                "value":"home_visit",
+                "label":"Home Visit"
+
+            },
+            {
+                "value":"my_place",
+                "label":" My Place/Home"
+
+            }
+        ]
+    },
+    "TutorinApproach":{
+        "approach": [
+            {
+                "value":"phone_help",
+                "label":"Phone Help"
+
+            },
+            {
+                "value":"online_help",
+                "label":"Online Help"
+
+            },
+            {
+                "value":"hands_note",
+                "label":"Provide Hands Note"
+
+            },
+            {
+                "value":"video_tutorials",
+                "label":"Video Tutorials"
+
+            }
+        ]
+    }
+}

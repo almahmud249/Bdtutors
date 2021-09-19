@@ -1,0 +1,90 @@
+{
+    "PreferedSubject":{
+        "subject": [
+            {
+                "value":"General Math",
+                "label":"General Math"
+
+
+            },
+            {
+                "value":"Islamiat",
+                "label":"Religion/ Islamiat"
+
+            },
+            {
+                "value":"Physics",
+                "label":"Physics"
+
+            },
+            {
+                "value":"Chemistry",
+                "label":"Chemistry"
+
+            },
+            {
+                "value":"Economics",
+                "label":"Economics"
+
+            },
+            {
+                "value":"General Science",
+                "label":"General Science"
+
+            },
+            {
+                "value":"ICT",
+                "label":"ICT"
+
+            },
+            {
+                "value":"Social Science",
+                "label":"Social Science"
+
+            },
+            {
+                "value":"English",
+                "label":"English"
+
+            },
+            {
+                "value":"Accounting",
+                "label":"Accounting"
+
+            },
+            {
+                "value":"Higher Math",
+                "label":"Higher Math"
+
+            },
+            {
+                "value":"Law",
+                "label":"Law"
+
+            },
+            {
+                "value":"Multiple subjects",
+                "label":"Multiple subjects"
+
+            },
+            {
+                "value":"All Subject",
+                "label":"All Subject"
+
+            },
+            {
+                "value":"Math",
+                "label":"Math"
+
+            },
+            {
+                "value":"Biology",
+                "label":"Biology"
+
+            }
+
+
+
+        ]
+    }
+}
